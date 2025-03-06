@@ -1,12 +1,13 @@
--Repositório de QA
-Bem-vindo(a) ao Repositório de QA! Este repositório tem o objetivo de ser um guia de estudos, portfólio e fonte de referência para práticas de Quality Assurance (QA) com foco em diversos aspectos, como:
+# Repositório de QA
 
-Testes Automatizados: Exemplos utilizando Cypress, K6 e outros frameworks.
-Testes Manuais: Checklists, templates e casos de teste.
-BDD (Behavior Driven Development): Conceitos, exemplos e boas práticas.
-Documentação: Guias e recursos para aprimorar o entendimento sobre processos de QA.
-Exemplos em Diversas Linguagens: Projetos práticos em JavaScript, TypeScript, Python e C#.
-Recursos Adicionais: Links úteis, cursos, artigos e outras referências para a área.
+Bem-vindo(a) ao **Repositório de QA**! Este repositório tem o objetivo de ser um guia de estudos, portfólio e fonte de referência para práticas de Quality Assurance (QA) com foco em diversos aspectos, como:
+
+- ![Testes Automatizados](https://img.icons8.com/color/48/000000/automation.png) **Testes Automatizados:** Exemplos utilizando Cypress, K6 e outros frameworks.
+- ![Testes Manuais](https://img.icons8.com/color/48/000000/manual-qa.png) **Testes Manuais:** Checklists, templates e casos de teste.
+- ![BDD](https://img.icons8.com/color/48/000000/bdd.png) **BDD (Behavior Driven Development):** Conceitos, exemplos e boas práticas.
+- ![Documentação](https://img.icons8.com/color/48/000000/document.png) **Documentação:** Guias e recursos para aprimorar o entendimento sobre processos de QA.
+- ![Exemplos](https://img.icons8.com/color/48/000000/source-code.png) **Exemplos em Diversas Linguagens:** Projetos práticos em JavaScript, TypeScript, Python e C#.
+- ![Recursos](https://img.icons8.com/color/48/000000/link.png) **Recursos Adicionais:** Links úteis, cursos, artigos e outras referências para a área.
 
 -Estrutura do Repositório
 
