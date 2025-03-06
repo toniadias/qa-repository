@@ -6,7 +6,7 @@ Bem-vindo(a) ao **Repositório de QA**! Este repositório tem o objetivo de ser 
 - **Testes Manuais:** Checklists, templates e casos de teste.
 - **BDD (Behavior Driven Development):** Conceitos, exemplos e boas práticas.
 - **Documentação:** Guias e recursos para aprimorar o entendimento sobre processos de QA.
-- **Exemplos em Diversas Linguagens:** Projetos práticos em JavaScript, TypeScript, Python e C#.
+- **Exemplos em Diversas Linguagens:** Projetos práticos em JavaScript, TypeScript e Python.
 - **Recursos Adicionais:** Links úteis, cursos, artigos e outras referências para a área.
 
 ---
@@ -30,7 +30,6 @@ Exemplos práticos organizados por linguagem.
 - **examples/javascript/**  
 - **examples/typescript/**  
 - **examples/python/**  
-- **examples/csharp/**
 
 **projects/**  
 Projetos completos que demonstram a aplicação dos conceitos de QA.
