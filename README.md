@@ -9,39 +9,45 @@ Bem-vindo(a) ao **Repositório de QA**! Este repositório tem o objetivo de ser 
 - **Exemplos em Diversas Linguagens:** Projetos práticos em JavaScript, TypeScript, Python e C#.
 - **Recursos Adicionais:** Links úteis, cursos, artigos e outras referências para a área.
 
--Estrutura do Repositório
+---
 
-docs/
-Documentação e guias de estudo.
+# Estrutura do Repositório
 
-docs/bdd/: Conceitos e exemplos de BDD.
-docs/testes-manuais/: Checklists e templates de casos de teste.
-docs/cypress/: Dicas e práticas recomendadas para automação com Cypress.
+**docs/**  
+Documentação e guias de estudo.  
+- **docs/bdd/**: Conceitos e exemplos de BDD.  
+- **docs/testes-manuais/**: Checklists e templates de casos de teste.  
+- **docs/cypress/**: Dicas e práticas recomendadas para automação com Cypress.
 
-automation/
-Scripts e projetos de automação.
+**automation/**  
+Scripts e projetos de automação.  
+- **automation/cypress/**: Testes de interface com Cypress.  
+- **automation/k6/**: Testes de performance com K6.  
+- **automation/api-tests/**: Exemplos de testes de API.
 
-automation/cypress/: Testes de interface com Cypress.
-automation/k6/: Testes de performance com K6.
-automation/api-tests/: Exemplos de testes de API.
+**examples/**  
+Exemplos práticos organizados por linguagem.  
+- **examples/javascript/**  
+- **examples/typescript/**  
+- **examples/python/**  
+- **examples/csharp/**
 
-examples/
-Exemplos práticos organizados por linguagem.
-
-examples/javascript/
-examples/typescript/
-examples/python/
-
-projects/
+**projects/**  
 Projetos completos que demonstram a aplicação dos conceitos de QA.
 
-resources/
+**resources/**  
 Links, cursos, artigos e materiais de referência.
 
--Como Contribuir
-Este repositório é público e aberto a contribuições! Se você tiver sugestões, melhorias ou novos exemplos, fique à vontade para abrir um pull request.
+---
 
-🌐 Contato
+## Como Contribuir
 
-Se tiver dúvidas ou precisar de mais informações, entre em contato por meio das issues ou envie uma mensagem.
+Este repositório é público e aberto a contribuições! Se você tiver sugestões, melhorias ou novos exemplos, fique à vontade para abrir um _pull request_.
+
+---
+
+## Contato
+
+Se tiver dúvidas ou precisar de mais informações, entre em contato por meio das _issues_ ou envie uma mensagem.
 - Instagram (https://www.instagram.com/qamaazing/)
+
