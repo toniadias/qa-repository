@@ -40,5 +40,6 @@ Links, cursos, artigos e materiais de referência.
 -Como Contribuir
 Este repositório é público e aberto a contribuições! Se você tiver sugestões, melhorias ou novos exemplos, fique à vontade para abrir um pull request.
 
--Contato
+🌐 Contato
 Se tiver dúvidas ou precisar de mais informações, entre em contato por meio das issues ou envie uma mensagem.
+- Instagram (https://www.instagram.com/qamaazing/)
